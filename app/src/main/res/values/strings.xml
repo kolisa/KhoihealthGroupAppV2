@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Khoi Health</string>
+    <string name="app_tagline">Your personal health companion</string>
+    <string name="login">Sign In</string>
+    <string name="register">Create Account</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="email">Email address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="full_name">Full name</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="devices">My Device</string>
+    <string name="goals">Goals</string>
+    <string name="reports">Reports</string>
+    <string name="settings">Settings</string>
+    <string name="steps">Steps</string>
+    <string name="calories">Calories</string>
+    <string name="distance">Distance</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="sleep">Sleep</string>
+    <string name="spo2">SpO₂</string>
+    <string name="blood_pressure">Blood Pressure</string>
+    <string name="temperature">Temperature</string>
+    <string name="battery">Battery</string>
+    <string name="firmware">Firmware</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="scan">Scan</string>
+    <string name="sync">Sync Now</string>
+    <string name="no_device_paired">No device paired</string>
+    <string name="pair_device">Pair a Device</string>
+    <string name="logout">Sign Out</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
